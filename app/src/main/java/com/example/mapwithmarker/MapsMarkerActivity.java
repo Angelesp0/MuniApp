@@ -45,7 +45,7 @@ public class MapsMarkerActivity extends AppCompatActivity
         LatLng dif = new LatLng(27.1292776, -104.9243775 );
         // LatLng instncia_de_la_mujer = new LatLng(27.1292776, -104.9243775 );
         // LatLng corralon = new LatLng(27.1266423, -104.950755 );
-        LatLng rastro = new LatLng(27.1292776, -104.9243775 );
+        /*LatLng rastro = new LatLng(27.1292776, -104.9243775 );
         LatLng bienestar = new LatLng(27.1292776, -104.9243775 );
         LatLng dif_ter = new LatLng(27.1292776, -104.9243775 );
         LatLng recaud = new LatLng(27.1292776, -104.9243775 );
@@ -53,7 +53,7 @@ public class MapsMarkerActivity extends AppCompatActivity
         LatLng comand = new LatLng(27.1292776, -104.9243775 );
         LatLng transito = new LatLng(27.1292776, -104.9243775 );
         LatLng bomberos= new LatLng(27.1292776, -104.9243775 );
-
+*/
 
         googleMap.addMarker(new MarkerOptions().position(presidecia)
                 .title("Presidecia"));
